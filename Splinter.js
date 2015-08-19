@@ -4,6 +4,6 @@ function Splinter(number1, number2) {
 	return NumberArray;
 }
 
-Splinter(1, 2);
+console.log(Splinter(1, 2));
 
 // output: [1, 2, 2]
